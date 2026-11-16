@@ -19,3 +19,13 @@ Full field list, message text for each path, and the end to end test plan: [work
 2. A note to the reporter when a fix is marked done
 
 Built by John Khan, ALENZA CODES, Toronto, Ontario.
+
+## Project structure
+
+```text
+slack-project-desk/
+├── cover.png             # Cover image
+├── README.md             # This file
+├── workflow-diagram.png  # Workflow diagram
+└── workflow-spec.md      # Workflow specification
+```
